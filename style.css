@@ -1,0 +1,68 @@
+.first{
+    background-color: aqua;
+    border-radius: 50px;
+    text-align: center;
+    border-color: red;
+}
+span{
+    color: red;
+}
+.qopketkan{
+    color: green;
+}
+.second{
+    color: green;
+    text-align: center;
+    background-color: yellow;
+}
+.third{
+    color: green;
+    text-align: center;
+    background-color: yellow;
+}
+.xz{
+    color: green;
+}
+.fourth{
+    background-color: yellow;
+    text-align: center;
+    color: green;
+}
+.red{
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+.black{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.blue{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+.green{
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+table{
+    width: 100%;
+    height: auto;
+    border-collapse: collapse;
+}
+.last{
+    background-color: yellow;
+    text-align: center;
+    color: green;
+}
+.knopka{
+    background-color: blue;
+}
+.stroka{
+    width: 100%;
+}
+
+
